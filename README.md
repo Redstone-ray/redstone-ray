@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Richard Ding</h1>
 <h3 align="center">A passionate Mechatronics Engineering student at the University of Waterloo</h3>
 
-- 🔭 I’m currently working on **Pyansys**
+- 🔭 I’m currently working on **Pyansys simulator for Ansys Fluent**
 
 - 👨‍💻 All of my projects are available at [https://richardding.ca/#projects](https://richardding.ca/#projects)
 
-- 📫 How to reach me **richard.ding@uwaterloo.ca**
+- 📫 Reach me at **richard.ding@uwaterloo.ca**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
