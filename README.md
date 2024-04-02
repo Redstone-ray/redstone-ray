@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Richard Ding</h1>
 <h3 align="center">A passionate Mechatronics Engineering student at the University of Waterloo</h3>
 
-- 🔭 I’m currently working on **Pyansys simulator for Ansys Fluent**
+- 🔭 I’m currently working on **Pyansys simulator for Ansys Fluent, Amora (Fully automatic scent diffuser)**
 
 - 👨‍💻 All of my projects are available at [https://richardding.ca/#projects](https://richardding.ca/#projects)
 
